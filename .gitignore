@@ -1,0 +1,10 @@
+configstore/
+gh/
+github-copilot/
+iterm2/
+karabiner/
+nvim/
+op/
+raycast/
+tmux/plugins/
+Session.vim
